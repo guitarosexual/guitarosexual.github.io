@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Test post"
+date:   2018-01-08 23:09:00 +0300
+categories: test post
+---
+This is my test post.
